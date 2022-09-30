@@ -1,0 +1,679 @@
+{
+	"id": "793f74a8-4f24-4a60-bf72-1aaa3b6d6065",
+	"name": "redbubble",
+	"nodes": [],
+	"locators": [
+		{
+			"id": "b1d9ac00-f2a8-49f3-adcb-5554fa822b7f",
+			"name": "txt_search",
+			"filePath": "4ecb541b-df4d-46ee-b5df-18c754edff4a.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "Productos increíbles diseñados por artistas independientes | Redbubble"
+							},
+							"url": {
+								"value": "https://www.redbubble.com/es/",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "INPUT"
+									},
+									"id": {
+										"value": "downshift-1192597-input",
+										"excluded": true
+									},
+									"class": {
+										"value": "node_modules--redbubble-design-system-react-headerAndFooter-components-Typeahead-components-desktop-Box-Input-styles__term--2hJyR",
+										"excluded": true
+									},
+									"type": {
+										"value": "search",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "app",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "node_modules--redbubble-design-system-react-headerAndFooter-components-Typeahead-components-desktop-Box-Input-styles__termWrapper--nTBUV",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>div>div>div>div>header>div>div>div>div>div>div>div>input",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"name": {
+										"value": "query",
+										"excluded": true
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"data-testid": {
+										"isCustom": true,
+										"value": "ds-typeahead-input-desktop",
+										"operator": "equals",
+										"excluded": true
+									},
+									"placeholder": {
+										"isCustom": true,
+										"value": "Busca productos y diseños",
+										"operator": "equals",
+										"excluded": true
+									},
+									"role": {
+										"isCustom": true,
+										"value": "combobox",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "Término de búsqueda",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-expanded": {
+										"isCustom": true,
+										"value": "true",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-autocomplete": {
+										"isCustom": true,
+										"value": "list",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-controls": {
+										"isCustom": true,
+										"value": "downshift-1192598-menu",
+										"operator": "equals",
+										"excluded": true
+									},
+									"aria-labelledby": {
+										"isCustom": true,
+										"value": "downshift-1192598-label",
+										"operator": "equals",
+										"excluded": true
+									},
+									"autocomplete": {
+										"isCustom": true,
+										"value": "off",
+										"operator": "equals",
+										"excluded": true
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "01718d19-35e2-46c4-8e76-081b9d1d158b",
+			"name": "btn_search",
+			"filePath": "5b85fe77-554b-405c-bf26-107aea6646af.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "Productos increíbles diseñados por artistas independientes | Redbubble"
+							},
+							"url": {
+								"value": "https://www.redbubble.com/es/",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "BUTTON"
+									},
+									"class": {
+										"value": "node_modules--redbubble-design-system-react-Button-styles__button--2oYLO node_modules--redbubble-design-system-react-Button-styles__neutral--9kdyo node_modules--redbubble-design-system-react-Button-styles__circle--1HliO node_modules--redbubble-design-system-react-Button-styles__medium--15h8Q",
+										"excluded": true
+									},
+									"type": {
+										"value": "submit"
+									},
+									"ancestorId": {
+										"value": "app",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "node_modules--redbubble-design-system-react-Box-styles__box--2Ufmy node_modules--redbubble-design-system-react-Box-styles__marginRight-05--1jULz",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "0",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>div>div>div>div>header>div>div>div>div>div>div>div>button",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "Término de búsqueda",
+										"operator": "equals",
+										"excluded": true
+									},
+									"data-testid": {
+										"isCustom": true,
+										"value": "ds-typeahead-search-button",
+										"operator": "equals",
+										"excluded": true
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "b7b18a0d-cb53-4938-b853-c6a2969bb910",
+			"name": "radio_mujer",
+			"filePath": "5d54526f-72a1-4179-8b31-c6b8deea6345.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "Camisetas: | Redbubble"
+							},
+							"url": {
+								"value": "https://www.redbubble.com/es/shop/?iaCode=u-tees&sortOrder=relevant&style=w-top-chiffon",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "SPAN"
+									},
+									"class": {
+										"value": "styles__radioLabel--2Hw-D",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "app"
+									},
+									"ancestorClass": {
+										"value": "styles__radio--2ppJU",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>main>div>section>div>aside>div>ul>li>div>div>ul>form>fieldset>div>div>div>div>label>span",
+										"excluded": true
+									},
+									"sInfo": {
+										"value": "Mujer"
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "68f08a4d-0068-4602-9005-272db80661a7",
+			"name": "radio_camiseta_ancha",
+			"filePath": "a0a4daec-c1d7-47ce-978a-b414f7e5ecfc.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "Camisetas para mujer: | Redbubble"
+							},
+							"url": {
+								"value": "https://www.redbubble.com/es/shop/?gender=gender-women&iaCode=u-tees&sortOrder=relevant&style=w-tee-relaxed-crew",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "SPAN"
+									},
+									"class": {
+										"value": "styles__radioLabel--2Hw-D",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "app"
+									},
+									"ancestorClass": {
+										"value": "styles__radio--2ppJU styles__selected--MNWdG",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>main>div>section>div>aside>div>ul>li>div>div>ul>form>fieldset>div>div>div>div>label>span",
+										"excluded": true
+									},
+									"sInfo": {
+										"value": "Camiseta ancha"
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "0ca8f795-f90b-405e-a392-7880b97d55f3",
+			"name": "btn_next_page",
+			"filePath": "8f3d4329-b8dd-4a91-b9e5-38418aa902d7.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "Camisetas para mujer: | Redbubble"
+							},
+							"url": {
+								"value": "https://www.redbubble.com/es/shop/*?gender=gender-women&iaCode=u-tees&sortOrder=relevant&style=w-tee-relaxed-crew",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "STRONG"
+									},
+									"ancestorId": {
+										"value": "app",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "Pagination__namedLink--1dOFn",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>main>div>section>div>div>div>div>div>ul>li>span>a>strong",
+										"excluded": true
+									},
+									"sInfo": {
+										"value": "Siguiente"
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "cc5547e2-e3d1-47ab-a27a-85ec62831761",
+			"name": "similar_img",
+			"filePath": "d205ee4f-07d8-45ee-96e3-21d4d256730b.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "*Redbubble"
+							},
+							"url": {
+								"value": "https://www.redbubble.com/es/shop/*?gender=gender-women&iaCode=u-tees&page=2&sortOrder=relevant&style=w-tee-relaxed-crew",
+								"excluded": true
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "IMG"
+									},
+									"class": {
+										"value": "styles__image--G1zaZ styles__productImage--3ZNPD styles__rounded--Mb445 styles__fluid--1Qsjf",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "SearchResultsGrid",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "styles__box--2Ufmy styles__ratioInner--miSrD ",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "1"
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>main>div>section>div>div>div>a>div>div>div>div>div>div>img"
+									},
+									"sInfo": {
+										"value": "* Camiseta ancha",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"src": {
+										"value": "https://ih1.redbubble.net/image.*",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"alt": {
+										"isCustom": true,
+										"value": "Amor y cohetes Camiseta ancha",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "ffbe9190-8930-47fe-bc3e-43b768f0bd64",
+			"name": "nav_scroll",
+			"filePath": "c4cfc87a-07fc-4bd1-9be6-8999226bba07.jpg",
+			"content": {
+				"automationType": "Chrome",
+				"processName": {
+					"value": "chrome"
+				},
+				"filePath": {
+					"value": "chrome.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"role": {
+								"value": "window"
+							},
+							"title": {
+								"value": "Camisetas para mujer: | Redbubble",
+								"excluded": true
+							},
+							"url": {
+								"value": "https://www.redbubble.com*",
+								"excluded": false
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_1"
+							},
+							"controlMetaType": "Tab"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"tag": {
+										"value": "NAV"
+									},
+									"class": {
+										"value": "styles__nav--3WCQ5",
+										"excluded": true
+									},
+									"ancestorId": {
+										"value": "app",
+										"excluded": true
+									},
+									"ancestorClass": {
+										"value": "styles__box--2Ufmy styles__section--LrnQe styles__medium--2xMtr undefined",
+										"excluded": true
+									},
+									"isLeaf": {
+										"value": "0",
+										"excluded": true
+									},
+									"cssSelector": {
+										"value": "body>div>div>div>div>div>div>div>nav",
+										"excluded": true
+									},
+									"tableRow": {
+										"value": "-1",
+										"excluded": true
+									},
+									"tableCol": {
+										"value": "-1",
+										"excluded": true
+									},
+									"controlMetaType": "Web",
+									"index": {
+										"value": "1",
+										"excluded": true
+									},
+									"aria-label": {
+										"isCustom": true,
+										"value": "Productos",
+										"operator": "equals",
+										"excluded": true
+									}
+								},
+								"childControls": [],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		}
+	]
+}
